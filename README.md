@@ -78,7 +78,7 @@ The goal of this analysis is to:
 
 ## 🚀 How to Use  
 1️⃣ **Download the Excel file** from this repository  
-2️⃣ Open the file in **Microsoft Excel (2016 or later)**  
+2️⃣ Open the file in **Microsoft Excel (2019 or later)**  
 3️⃣ Use **slicers** to filter and interact with the data  
 4️⃣ Analyze sales trends based on products, cities, and occasions  
 
