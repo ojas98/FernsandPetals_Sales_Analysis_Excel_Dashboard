@@ -37,38 +37,6 @@ The goal of this analysis is to:
 
 ---
 
-## 📈 Chart Requirements  
-
-### **1️⃣ Total Revenue by Occasion**  
-- **Objective**: Compare revenue generated across different occasions.  
-- **Chart Type**: 📊 **Bar Chart**  
-
-### **2️⃣ Monthly Sales Performance**  
-- **Objective**: Analyze fluctuations in monthly sales trends.  
-- **Chart Type**: 📉 **Line Chart**  
-
-### **3️⃣ Top Products by Revenue**  
-- **Objective**: Identify which products contribute the most to revenue.  
-- **Chart Type**: 🏆 **Column Chart**  
-
-### **4️⃣ Customer Spending Analysis**  
-- **Objective**: Understand customer purchase behavior and average order value.  
-- **Chart Type**: 📊 **Box Plot / Histogram**  
-
-### **5️⃣ Sales Performance by Top 5 Products**  
-- **Objective**: Monitor sales trends of the best-performing products.  
-- **Chart Type**: 📈 **Stacked Column Chart**  
-
-### **6️⃣ Top 10 Cities by Number of Orders**  
-- **Objective**: Determine high-demand locations.  
-- **Chart Type**: 🌍 **Map / Heatmap**  
-
-### **7️⃣ Revenue Comparison Between Occasions**  
-- **Objective**: Compare total revenue across different festivals and events.  
-- **Chart Type**: 📊 **Grouped Bar Chart**  
-
----
-
 ## 🖼️ Dashboard Preview  
 
 <img width="631" alt="FNP" src="https://github.com/user-attachments/assets/e7033b06-70fa-421a-aa5d-a82c33567e21" />
